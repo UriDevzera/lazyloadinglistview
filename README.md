@@ -1,6 +1,7 @@
 # lazyloadinglistview
 
-Hi, solution for a listview with a many itens that you need to scrolling to the end.
+This is one olution for a listview with a many itens that you need to scrolling to the end.
+Of course, it is a very simple code, there are some things that could be improved.
 
 ## Getting Started
 
